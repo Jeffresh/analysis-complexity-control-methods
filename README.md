@@ -1,4 +1,4 @@
-# Analysis of control complexity methods
+# Analysis of complexity control methods
 
 ## Abstract
 
